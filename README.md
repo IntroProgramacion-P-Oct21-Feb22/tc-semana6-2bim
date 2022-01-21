@@ -1,4 +1,4 @@
-# Trabajo en Clases - Semana6 - Segungo Bimestre
+# Trabajo en Clases - Semana6 - Segundo Bimestre
 
 
 ### Actividades
