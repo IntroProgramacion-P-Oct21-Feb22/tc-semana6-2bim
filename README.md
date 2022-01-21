@@ -12,4 +12,5 @@
 	int[] a = new int[10]
 ```
 Asigne valores al arreglo, haga uso del método nextInt de RandomUtils; finalmente presentarlos en pantalla
+
 6. La solución debe contener método o métodos, a parte del método **main**
